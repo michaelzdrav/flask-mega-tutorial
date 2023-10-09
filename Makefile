@@ -3,3 +3,6 @@ freeze:
 
 run:
 	flask run
+
+shell:
+	flask shell
